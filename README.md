@@ -4,8 +4,8 @@
 [![Awesome](https://awesome.rebadge.tech/badge/awesome-1143)](https://github.com/sindresorhus/awesome)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)](./CONTRIBUTING.md)
-[![Contributors](https://img.shields.io/github/contributors/example/awesome-best-ai-tools-for-small-businesses-2026)](https://github.com/example/awesome-best-ai-tools-for-small-businesses-2026/graphs/contributors)
-[![Stars](https://img.shields.io/github/stars/example/awesome-best-ai-tools-for-small-businesses-2026)](https://github.com/example/awesome-best-ai-tools-for-small-businesses-2026/stargazers)
+[![Contributors](https://img.shields.io/github/contributors/GagnDeep/awesome-best-ai-tools-for-small-businesses-2026)](https://github.com/GagnDeep/awesome-best-ai-tools-for-small-businesses-2026/graphs/contributors)
+[![Stars](https://img.shields.io/github/stars/GagnDeep/awesome-best-ai-tools-for-small-businesses-2026)](https://github.com/GagnDeep/awesome-best-ai-tools-for-small-businesses-2026/stargazers)
 
 ---
 
