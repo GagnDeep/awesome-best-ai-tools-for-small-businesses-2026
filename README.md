@@ -24,6 +24,7 @@
 - [Productivity](#productivity)
 - [HR \& Hiring](#hr--hiring)
 - [Analytics](#analytics)
+- [Voice \& Phone Agents](#voice--phone-agents)
 - [Contributing](#contributing)
 - [License](#license)
 - [FAQ](#faq)
@@ -439,6 +440,18 @@ Plausible Analytics is a lightweight, privacy-first web analytics platform that 
 **Tags:** `analytics` `heatmaps` `session-recordings` `UX` `free`
 
 Microsoft Clarity is a completely free AI-powered web analytics tool that goes beyond pageview counts to show you exactly how users interact with your website through heatmaps, session recordings, and engagement insights. Its AI features include automated session clustering (grouping similar user behaviors to spot patterns), rage-click detection (identifying confusing UI elements where users click repeatedly), and dead-click identification. Small businesses use Clarity to understand which CTAs are working, which page sections cause users to leave, and how mobile vs. desktop visitors behave differently. The data is retained for 90 days on the free plan, with all features available at no cost — an exceptional value proposition for bootstrapped startups and small e-commerce stores that need UX insights to improve conversion rates. Integrates with Google Ads and Azure to connect marketing spend with user behavior.
+
+---
+
+## Voice & Phone Agents
+
+### 40. Hermes
+
+**Website:** [https://www.buildwithhermes.com](https://www.buildwithhermes.com)
+
+**Tags:** `voice-ai` `phone-agents` `appointment-booking` `white-label` `lead-follow-up`
+
+Hermes is an AI voice agent platform for small teams and agencies that need to answer, qualify, and follow up on phone calls without hiring a call center. You describe the script and the business rules, and Hermes handles inbound answering, outbound follow-up campaigns, call transcripts, and appointment booking, with a built-in CRM so leads do not fall through the gaps between tools. It fills the phone gap for small businesses that already run chat and email automation, which matters because a missed call is usually a lost customer. Plans start at $149/month with 300 included minutes, and agents can run under your own brand, so freelancers and small agencies can resell voice answering to their own clients. First agent typically goes live in about 72 hours, with no code required.
 
 ---
 
